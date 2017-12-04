@@ -10,7 +10,7 @@ After experimenting with css systems using vanilla css, sass, postcss, css-compo
 
 ## Boring
 I'm done with the clever, give me boring CSS.
-I'm not against all modern features, but i'm wary of highly  engineered systems. Styles don’t need to be complex.
+I'm not against all modern features, but I'm wary of highly engineered systems. Styles don’t need to be complex.
 
 ## Flat
 CSS is hard enough to wrangle in one dimension. I stay away from nesting with the exception of pseudo classes, elements selectors, and markup you don't have access to.
