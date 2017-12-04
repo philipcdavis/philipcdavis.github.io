@@ -8,8 +8,8 @@ A good styling system will depend on the team and project that uses it. A lone r
 
 After experimenting with css systems using vanilla css, sass, postcss, css-components, and CSS in JS solutions I figured I would some thoughts on the type of CSS that I like to write and use.
 
-## Boring 
-I'm done with the clever, give me boring CSS. 
+## Boring
+I'm done with the clever, give me boring CSS.
 I'm not against all modern features, but i'm wary of highly  engineered systems. Styles don’t need to be complex.
 
 ## Flat
@@ -17,7 +17,7 @@ CSS is hard enough to wrangle in one dimension. I stay away from nesting with th
 
 ## Isolated
 Using react changed my views about organizing CSS files.
-I used to have two types of CSS files. Pages and components. CSS Components would be reused, pages wouldn't. Using react convinced me that the purpose of components wasn't reusability. It was about isolation. 
+I used to have two types of CSS files. Pages and components. CSS Components would be reused, pages wouldn't. Using react convinced me that the purpose of components wasn't reusability. It was about isolation.
 Thanks to @trek for summing it up nicely.
 https://twitter.com/trek/status/763388260634669057
 
