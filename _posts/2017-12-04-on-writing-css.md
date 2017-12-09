@@ -18,8 +18,6 @@ CSS is hard enough to wrangle in one dimension. I stay away from nesting with th
 ## Isolated
 Using react changed my views about organizing CSS files.
 I used to have two types of CSS files. Pages and components. CSS Components would be reused, pages wouldn't. Using react convinced me that the purpose of components wasn't reusability. It was about isolation.
-Thanks to @trek for summing it up nicely.
-https://twitter.com/trek/status/763388260634669057
 
 Now, I have one type of CSS file: a component. The files can be grouped by folders to match the app structure, but that's all it is.
 
