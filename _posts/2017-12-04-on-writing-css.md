@@ -6,7 +6,7 @@ title:  On Writing CSS
 # On Writing CSS
 A good styling system will depend on the team and project that uses it. A lone ranger may need a different system than a team of 20. Designers who are heavily involved in developing the front end may decide on a much smaller library of components.
 
-After experimenting with css systems using vanilla CSS, SASS, postcss, css-components, and CSS in JS solutions I figured I would some thoughts on the type of CSS that I like to write and use.
+After experimenting with css systems using vanilla CSS, SASS, postcss, css-components, and CSS in JS solutions I thought I would share some thoughts on the type of CSS that I like to write and use.
 
 ## Boring
 I'm done with the clever, give me boring CSS.
