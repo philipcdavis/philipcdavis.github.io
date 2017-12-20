@@ -35,7 +35,8 @@
   }
 
   html {
-    font-size: 90%;
+    font-size: 86%;
+    letter-spacing: 0.4px;
   }
 
   body {
@@ -44,6 +45,7 @@
 
   html.fonts-loaded {
     font-size: 100%;
+    letter-spacing: normal;
   }
 
   .fonts-loaded body {
@@ -56,6 +58,17 @@
   </style>
   <script>
     (function() {
+
+    // window.addEventListener("click", toggleFonts)
+    //
+    // function toggleFonts() {
+    //   if (document.documentElement.className === "fonts-loaded") {
+    //     document.documentElement.className = ""
+    //   } else {
+    //     document.documentElement.className = "fonts-loaded"
+    //   }
+    // }
+
     // Optimization for Repeat Views
     if( sessionStorage.fontsLoadedCriticalFoftDataUriPolyfill ) {
       document.documentElement.className += " fonts-loaded";

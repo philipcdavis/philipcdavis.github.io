@@ -72,7 +72,7 @@ a {
   color: inherit;
   border-bottom: 2px solid $gray-40;
   text-decoration: none;
-  transition: 0.1s all ease;
+  transition: 0.1s border-color ease;
 
   &:hover {
     border-color: $gray-80;
