@@ -27,8 +27,7 @@ The launch was a dud, not many people visited the site and nobody signed up for 
 I knew it would be hard, but didn’t know how hard. My top priority was to build an email list. I tested out linkedIn, facebook, and google advertising to get people to my site but the results were dismal. Content marketing worked much better. I would write a post, and then share it on hacker news, designer news, and data tau. I got lots of site visits, and my email list grew to over 500 people. With each article, I would share it with my list.
 
 ## Profits
-At the end of the day, I spent a year building a course that made me 5k. I spent pretty much nothing but hosting fees. This may seem like a small number, but it was the most rewarding 5k i’ve ever made. It felt amazing waking up from sleep to see that people had signed up to the course. It truly felt like I had built a business. After two months of marketing the course, I stopped and signups stopped almost immediately.
-
+Building the course cost me hosting fees and a year of my life. In the end, I made a modest sum of money. The amount wasn't spectacular, but the feeling of building something that people wanted to buy was. It felt amazing waking up from sleep to see that people had signed up to the course. It felt like I had built a business. After two months of marketing the course, I eased off and signups stopped almost immediately.
 
 ## Takeaways
 I learned a swath of skills during the process of building the course. Technical writing, video and audio recording, back end development, server management, pricing, launching a paid product, marketing, and customer support were all uncharted territories for me. I wouldn’t trade this experience for the world. If you decide to get into online courses yourself, count the cost. It isn’t an easy or lucrative endeavor but you will end up learning a lot of valuable things along the way.
