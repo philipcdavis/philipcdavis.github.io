@@ -4,7 +4,7 @@ title:  Becoming a Wordsmith
 ---
 
 # Becoming a Wordsmith
-Last year I started reading 5 books on writing. The one that made the biggest impact on me was [Wordsmithy](https://www.amazon.com/Wordsmithy-Hot-Tips-Writing-Life-ebook/dp/B007Y90XNY/ref=mt_kindle?_encoding=UTF8&me=) by Doug Wilson. In it Wilson gives 7 hot tips for your writing life. The book isn’t as trite as the title suggests. In lieu of the subtitle, here are 7 gems I collected in this treasure chest.
+Last year I started reading 5 books on writing. The one that made the biggest impact on me was [Wordsmithy](https://www.amazon.com/Wordsmithy-Hot-Tips-Writing-Life-ebook/dp/B007Y90XNY/ref=mt_kindle?_encoding=UTF8&me=) by Doug Wilson. In it, Wilson gives 7 hot tips for your writing life. In lieu of the subtitle, here are 7 gems I collected in this treasure chest.
 
 1. Get real life experience. “Real life duties should be preferred over real life tourism”. Preferably experience that builds character. The more potent the inputs, the more interesting the outputs.
 
