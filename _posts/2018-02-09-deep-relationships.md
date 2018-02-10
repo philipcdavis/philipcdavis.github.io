@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep Relationships”
+title:  "Deep Relationships"
 date:   2018-02-09
 ---
 
