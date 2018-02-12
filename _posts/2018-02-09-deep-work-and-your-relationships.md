@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Deep Relationships"
+title:  "Deep Work and Your Relationships“
 date:   2018-02-09
 ---
 
-# Deep Relationships
+# Deep Work and Your Relationships
 
 I don’t read many books twice, but [Deep Work](http://amzn.to/2nbihPn) is an exception. The applications of this book are still resonating with me 2 years since first reading it.
 
@@ -23,7 +23,3 @@ The better your inputs, the better your outputs. When you are engaged in deep th
 
 ## Good work serves others
 When I work with focus I am able to deliver work of quality, much faster than if i’m distracted. This is the work that i’m proud to put your signature on. It’s work that serves others in a meaningful way, and serving others is foundational to healthy relationships.
-
-
-
-
