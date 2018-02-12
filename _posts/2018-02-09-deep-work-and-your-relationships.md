@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep Work and Your Relationships“
+title:  "Deep Work and Your Relationships"
 date:   2018-02-09
 ---
 
