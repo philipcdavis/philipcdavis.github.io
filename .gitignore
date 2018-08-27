@@ -1,4 +1,5 @@
 _site
 .sass-cache
+node_modules/
 .jekyll-metadata
 ./assets/fonts/*
