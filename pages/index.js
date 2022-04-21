@@ -42,10 +42,24 @@ export default function Home() {
             dates="2019-Present"
           />
           <WorkLink
-            url="/work/apple"
+            url="/apple"
             image="/images/apple-icon.png"
             name="Apple"
             dates="2015-2018"
+          />
+        </Flex>
+        <Flex flexDirection={["column", "row"]}>
+          <WorkLink
+            url="https://quickcapture.xyz"
+            image="/images/quickcapture.png"
+            name="Quick Capture"
+            dates="2022-Present"
+          />
+          <WorkLink
+            url="https://swiftui.design/examples"
+            image="/images/swiftui-icon.png"
+            name="SwiftUI for Designers"
+            dates="2021-Present"
           />
         </Flex>
         <Flex flexDirection={["column", "row"]}>
