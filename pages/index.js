@@ -22,11 +22,23 @@ export default function Home() {
         <Text mb={[3, 6]}>
           I'm a product designer and UI engineer. Right now I'm working on the
           Facebook design system. Previously I was designing interfaces at
-          Apple. In my free time I work on a{" "}
+          Apple. In my free time I create{" "}
           <Link underline href="https://react.design">
-            react course
-          </Link>{" "}
-          for designers.
+            courses
+          </Link>
+          ,{" "}
+          <Link underline href="https://swiftui.design/examples">
+            resources
+          </Link>
+          ,{" "}
+          <Link underline href="/prototypes">
+            prototypes
+          </Link>
+          , and{" "}
+          <Link underline href="https://quickcapture.xyz">
+            apps
+          </Link>
+          . .
         </Text>
       </Box>
 

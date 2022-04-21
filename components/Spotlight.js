@@ -36,6 +36,10 @@ let nav = [
     url: "/",
   },
   {
+    title: "Prototypes",
+    url: "/prototypes",
+  },
+  {
     title: "Writing",
     url: "/writing",
   },
