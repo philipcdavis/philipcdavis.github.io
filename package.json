@@ -12,6 +12,7 @@
     "@mdx-js/loader": "^1.6.19",
     "@next/mdx": "^10.0.0",
     "@reach/dialog": "^0.11.2",
+    "cloudinary-react": "^1.7.2",
     "cmdk": "^0.0.4",
     "date-fns": "^2.16.1",
     "downshift": "^6.0.6",
