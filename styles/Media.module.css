@@ -1,16 +1,14 @@
-.youtubeContainer {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
+.videoResponsive {
   overflow: hidden;
-  margin-bottom: 10px;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
 }
 
-.youtubeContainer iframe {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.videoResponsive iframe {
   left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
 }
