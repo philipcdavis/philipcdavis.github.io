@@ -26,7 +26,7 @@
     "react-syntax-highlighter": "^15.2.1",
     "rebass": "^4.0.7",
     "remark": "^13.0.0",
-    "remark-html": "^13.0.1",
+    "remark-html": "^13.0.2",
     "sharp": "^0.30.4",
     "tinykeys": "^1.1.1"
   }
