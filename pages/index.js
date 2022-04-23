@@ -38,7 +38,7 @@ export default function Home() {
           <Link underline href="https://quickcapture.xyz">
             apps
           </Link>
-          . .
+          .
         </Text>
       </Box>
 

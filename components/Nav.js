@@ -20,17 +20,8 @@ export default function Nav() {
       </Link>
 
       <Link
-        href="/prototypes"
-        mx={[3, 4]}
-        className={
-          asPath === "/prototypes" ? (styles.link, styles.active) : styles.link
-        }
-      >
-        Prototypes
-      </Link>
-
-      <Link
         href="/writing"
+        ml={[3, 4]}
         className={
           (styles.link,
           asPath === "/writing" ? (styles.link, styles.active) : styles.link)
