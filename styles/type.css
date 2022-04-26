@@ -124,6 +124,7 @@ figcaption {
   color: var(--secondary-text);
   font-size: 1.2rem;
   margin-bottom: 2rem;
+  margin-top: 1rem;
   position: relative;
   text-align: center;
 }
