@@ -10,7 +10,7 @@ SwiftUI is Apple's declarative UI framework. It's also a good design tool. Progr
 
 The new M1 machines unlocked SwiftUI. Xcode is a pretty heavy app, but builds are now fast enough that quick iteration is possible. This is critical for anyone working with UI where changes need to be instantly viewable and continually iterated on.
 
-# A Few Reasons to Consider using SwiftUI
+# Reasons to Consider using SwiftUI
 
 1. There's a higher ceiling in SwiftUI than any design tool I've used before. Even if something isn't possible in SwiftUI, it's possible to drop into UIKit. If you can build it, you can prototype it.
 
