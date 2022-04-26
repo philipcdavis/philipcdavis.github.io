@@ -94,8 +94,8 @@ export default function Home() {
         Featured Writing
       </Text>
       <Box>
-        <Link underline display="block" href="https://react.design/javascript">
-          A Designer's Guide to JavaScript
+        <Link underline display="block" href="/writing/designing-in-swiftui">
+          Designing in SwiftUI
         </Link>
 
         <Link underline display="block" href="https://react.design/terminal">
