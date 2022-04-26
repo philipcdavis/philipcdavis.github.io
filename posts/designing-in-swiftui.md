@@ -64,4 +64,4 @@ Overall, I've had a very positive experience using SwiftUI for prototypes. I've 
 </div>
 <figcaption>Parallax Effect using the Accelerometer</figcaption>
 
-If you're looking to get started with SwiftUI, I put together this short [guide](https://swiftui.design/guide), and have posted some [examples](https://swiftui.design/examples) here. I also post experiments on [twitter](https://twitter.com/philipcdavis).
+If you're looking to get started with SwiftUI, I put together this short [guide](https://swiftui.design/guide), and have posted some [examples](https://swiftui.design/examples). I also post experiments on [twitter](https://twitter.com/philipcdavis).
