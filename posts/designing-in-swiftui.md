@@ -10,9 +10,7 @@ SwiftUI is a declarative framework built by Apple. It's also a good design tool.
 
 The new M1 machines unlocked SwiftUI for me. Xcode is a pretty heavy app, but builds are now fast enough that quick iteration is possible. This is critical for anyone working with UI where changes need to be instantly viewable and continually iterated on.
 
-## Upsides to using SwiftUI
-
-It's not for everyone, but here are some reasons to consider using SwiftUI.
+# Benefits of Using SwiftUI
 
 1. There's a higher ceiling in SwiftUI than any design tool I've used before. Even if something isn't possible in SwiftUI, it's possible to do it in UIKit. If you can build it, you can prototype it.
 
@@ -26,7 +24,7 @@ It's not for everyone, but here are some reasons to consider using SwiftUI.
 
 6. Robust Ecosystem and Tooling. Because there's a huge community of engineers there are lots of open source libraries, tutorials, and resources to use. In addition, the tooling is state of the art.
 
-## Downsides to using SwiftUI
+# Downsides and Caveats
 
 1. It's not built for design use cases. This means things that other prototyping tools have in place aren't yet a part of the framework. An example of this is the absence of a touch cursor for presenting prototypes that exists in other tools.
 
